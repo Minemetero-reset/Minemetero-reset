@@ -1,16 +1,22 @@
 ## Hi there 👋
 
+I'm a developer focused on clean, efficient, and scalable code. My projects often explore the intersections of web development, scripting, and user experience, with a particular interest in TypeScript, SCSS, and JavaScript.
+
+# What I Do:
+
+   + Web Development: Building seamless front-end experiences with HTML, CSS/SCSS, and JavaScript/TypeScript.
+   + Problem Solving: Passionate about optimizing code and enhancing functionality through thoughtful refactoring.
+   + Learning & Sharing: Constantly diving into new technologies and sharing insights from my journey as a developer.
+
+# Languages & Tools I Use:
+
+  + Languages: TypeScript, JavaScript, SCSS, HTML, and more.
+  + Tools: Git, GitHub, VS Code, and other developer essentials.
+
+# 💻 Check out my repos to see my latest work, and feel free to contribute or get in touch!
+
+![GandalfSax!](00d671e482c56d3050d0599b8d1e6184531666ee35cd23aa7d1a7f38ee26156f.png)
+
 <!--
-**Minemetero-reset/Minemetero-reset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+the key is somewhere here
 -->
