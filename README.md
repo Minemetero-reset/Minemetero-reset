@@ -19,7 +19,7 @@ I really, really like maths, and I think maths can be made fun.
 
 So, I have decided to list a couple of my favourite maths equations that may change one's perspective on maths.
 
-![Math1!](DmLSoIN.png)
+![Math1!](DmLSolN.png)
 <!-- subsititue b for next equation -->
 
 ![Math2!](FOuRV0Z.png)
