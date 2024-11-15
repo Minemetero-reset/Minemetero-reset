@@ -15,14 +15,22 @@ I'm a developer focused on clean, efficient, and scalable code. My projects ofte
 
 # Other things I do:
 
-I really, really like maths, and I think maths can be made fun. So, I have decided to list a couple of my favourite maths equations that may change one's perspective on maths.
+I really, really like maths, and I think maths can be made fun. 
 
+So, I have decided to list a couple of my favourite maths equations that may change one's perspective on maths.
 
+![Math1!](DmLSoIN.png)
+<!-- subsititue b for next equation -->
+
+![Math2!](FOuRV0Z.png)
+<!-- b=y (next equatiton) -->
+
+![Math3!](AqxS0pA.png)
 
 # 💻 Check out my repos to see my latest work, and feel free to contribute or get in touch!
 
 ![GandalfSax!](00d671e482c56d3050d0599b8d1e6184531666ee35cd23aa7d1a7f38ee26156f.png)
 
 <!--
-the key is somewhere here
+the keys are somewhere here
 -->
